@@ -22,7 +22,7 @@ A API possui os seguintes endpoints para interação:
 
 2. `GET /api/filmes/{id}`: Retorna os detalhes do filme correspondente ao ID fornecido na URL.
 
-3. `POST /api/filmes/avaliacoes`: Cria uma nova avaliação para o filme correspondente ao ID fornecido. Os dados da avaliação devem ser enviados no corpo da requisição.
+3. `POST /api/filmes/avaliacoes`: Cria uma nova avaliação para o filme correspondente ao ID fornecido.
 
 
 ## Tecnologias Utilizadas
