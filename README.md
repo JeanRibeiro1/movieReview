@@ -1,6 +1,6 @@
-# Projeto de API REST com Spring Boot e JPA para um site de Filmes com MongoDB
+# Projeto de API REST com Spring Boot e MongoDB para um site de Filmes com MongoDB
 
-Este é um projeto de API REST desenvolvido utilizando o framework Spring Boot e a tecnologia JPA (Java Persistence API) com o banco de dados MongoDB. A finalidade desta API é fornecer endpoints para acessar informações sobre filmes, permitindo a visualização dos filmes disponíveis e a criação de avaliações (reviews) para cada filme.
+Este é um projeto de API REST desenvolvido utilizando o framework Spring Boot e o banco de dados MongoDB. A finalidade desta API é fornecer endpoints para acessar informações sobre filmes, permitindo a visualização dos filmes disponíveis e a criação de avaliações (reviews) para cada filme.
 
 ## Funcionalidades
 
@@ -30,8 +30,6 @@ A API possui os seguintes endpoints para interação:
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - **Spring Boot**: Framework Java para agilizar e facilitar o desenvolvimento de aplicações.
-
-- **JPA (Java Persistence API)**: Tecnologia que permite a integração com o banco de dados MongoDB e o mapeamento objeto-documento.
 
 - **MongoDB**: Banco de dados orientado a documentos, utilizado para armazenar as informações dos filmes e avaliações.
 
