@@ -18,11 +18,11 @@ A API possui as seguintes funcionalidades:
 
 A API possui os seguintes endpoints para interação:
 
-1. `GET /api/filmes`: Retorna todos os filmes disponíveis no sistema.
+1. `GET /api/v1/movies`: Retorna todos os filmes disponíveis no sistema.
 
-2. `GET /api/filmes/{id}`: Retorna os detalhes do filme correspondente ao ID fornecido na URL.
+2. `GET /api/v1/movies/{id}`: Retorna os detalhes do filme correspondente ao ID fornecido na URL.
 
-3. `POST /api/filmes/avaliacoes`: Cria uma nova avaliação para o filme correspondente ao ID fornecido.
+3. `POST /api/vi/reviews`: Cria uma nova avaliação para o filme correspondente ao ID fornecido.
 
 
 ## Tecnologias Utilizadas
